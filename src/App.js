@@ -8,5 +8,5 @@ function App() {
     </div>
   );
 }
-
+//12 28 link scss
 export default App;
