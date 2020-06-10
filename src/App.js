@@ -1,12 +1,12 @@
 import React from 'react';
-import Navigation from './components/navigation'
+import Routes from './routes'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <Navigation />
+    <div>
+      <Routes />
     </div>
-  );
+  )
 }
 //12 28 link scss
 export default App;
