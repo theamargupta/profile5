@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/blogg/static/css/main.20633c7d.chunk.css",
+    "main.js": "/blogg/static/js/main.2b1e1ca6.chunk.js",
+    "main.js.map": "/blogg/static/js/main.2b1e1ca6.chunk.js.map",
+    "runtime-main.js": "/blogg/static/js/runtime-main.a675e3da.js",
+    "runtime-main.js.map": "/blogg/static/js/runtime-main.a675e3da.js.map",
+    "static/js/2.fafb2a4d.chunk.js": "/blogg/static/js/2.fafb2a4d.chunk.js",
+    "static/js/2.fafb2a4d.chunk.js.map": "/blogg/static/js/2.fafb2a4d.chunk.js.map",
+    "index.html": "/blogg/index.html",
+    "precache-manifest.325e8e5c76cd6493dfddefde7572a758.js": "/blogg/precache-manifest.325e8e5c76cd6493dfddefde7572a758.js",
+    "service-worker.js": "/blogg/service-worker.js",
+    "static/css/main.20633c7d.chunk.css.map": "/blogg/static/css/main.20633c7d.chunk.css.map",
+    "static/js/2.fafb2a4d.chunk.js.LICENSE.txt": "/blogg/static/js/2.fafb2a4d.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/blogg/static/media/1.7f854c20.png",
+    "static/media/2-a.png": "/blogg/static/media/2-a.9b7f0b7f.png",
+    "static/media/2.png": "/blogg/static/media/2.2d4f3a7a.png",
+    "static/media/3.png": "/blogg/static/media/3.8a0fc1b8.png",
+    "static/media/4.png": "/blogg/static/media/4.cd5172d1.png",
+    "static/media/grace2.gif": "/blogg/static/media/grace2.8191b464.gif",
+    "static/media/mental1.gif": "/blogg/static/media/mental1.5a14b89b.gif",
+    "static/media/mobile-wireframe.png": "/blogg/static/media/mobile-wireframe.b1c0d824.png",
+    "static/media/tcy.png": "/blogg/static/media/tcy.3c873cde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a675e3da.js",
+    "static/js/2.fafb2a4d.chunk.js",
+    "static/css/main.20633c7d.chunk.css",
+    "static/js/main.2b1e1ca6.chunk.js"
+  ]
+}
